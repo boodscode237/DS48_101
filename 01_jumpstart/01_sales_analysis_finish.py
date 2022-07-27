@@ -53,7 +53,7 @@ pretty.install()
 
 # %%
 # help(pd.read_excel)
-pd.read_excel('00_data_raw/bikes.xlsx')
+pd.read_excel('data/bikes.xlsx')
 # %%
 getcwd()
 
